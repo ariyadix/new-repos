@@ -1,0 +1,475 @@
+{
+    "led": [
+        {
+            "id": 111,
+            "bab_title": "I. PENDAHULUAN",
+            "sub_bab": "A. Dasar Penyusunan",
+            "sub_kriteria": null,
+            "keterangan": "Bagian ini menjelaskan kebijakan tentang penyusunan evaluasi diri di perguruan tinggi dan tujuan penyusunan LED. Pada bagian ini, UPPS perlu dan harus menunjukkan keterkaitan LED dengan rencana pengembangan perguruan tinggi."
+        },
+        {
+            "id": 121,
+            "bab_title": "I. PENDAHULUAN",
+            "sub_bab": "B. Tim Penyusun dan Tanggung Jawabnya",
+            "sub_kriteria": null,
+            "keterangan": "Bagian ini menjelaskan keberadaan tim penyusun LED yang ditugasi oleh UPPS beserta deskripsi tugasnya. Keberadaan tim penyusun dan tugasnya harus ditunjukkan dengan dokumen formal yang disahkan oleh Ketua UPPS, dalam hal ini Dekan atau Ketua Jurusan/ Departemen untuk Universitas/ Institut, atau Direktur untuk Politeknik, atau Ketua untuk Sekolah Tinggi, atau yang setingkat. Susunan tim penyusun LED harus melibatkan pemangku kepentingan internal (mahasiswa, pimpinan, dosen, dan tenaga kependidikan) dan eksternal (lulusan, pengguna, dan mitra) dalam penyusunan LED."
+        },
+        {
+            "id": 131,
+            "bab_title": "I. PENDAHULUAN",
+            "sub_bab": "C. Mekanisme Kerja Penyusunan LED",
+            "sub_kriteria": null,
+            "keterangan": "Bagian ini menjelaskan mekanisme pengumpulan data dan informasi, verifikasi dan validasi data, pengecekan konsistensi data, analisis data, identifikasi akar masalah dan penetapan strategi pengembangan yang mengacu pada rencana pengembangan UPPS. Penjelasan tentang mekanisme kerja perlu disertai dengan dengan jadwal kerja tim yang jelas."
+        },
+        {
+            "id": 211,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "A. Kondisi Eksternal",
+            "sub_kriteria": null,
+            "keterangan": "Pada bagian ini UPPS perlu menjelaskan kondisi eksternal program studi yang terdiri atas lingkungan makro dan lingkungan mikro di tingkat lokal, nasional, dan internasional. Lingkungan makro mencakup aspek kebijakan, ekonomi, sosial, budaya, serta perkembangan ilmu pengetahuan dan teknologi. Lingkungan mikro mencakup aspek pesaing, pengguna lulusan, sumber calon mahasiswa, sumber calon dosen, sumber tenaga kependidikan, sumber pendanaan, perkuliahan daring (e-learning, pendidikan jarak jauh), kebutuhan dunia usaha/industri dan masyarakat, dan kemitraan. UPPS perlu menganalisis aspek-aspek dalam lingkungan makro dan lingkungan mikro yang relevan dan dapat mempengaruhi eksistensi/keberadaan dan pengembangan UPPS dan program studi yang diakreditasi. UPPS perlu menyampaikan rumusan strategi pengembangan program studi secara umum yang berkesesuaian untuk menghasilkan program-program pengembangan alternatif yang tepat, yang akan dijabarkan lebih rinci pada Bagian E tentang Program Pengembangan."
+        },
+        {
+            "id": 221,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "1. Sejarah Unit Pengelola Program Studi",
+            "keterangan": "Bagian ini berisi penjelasan UPPS tentang riwayat pendirian dan perkembangan UPPS dan program studi yang diakreditasi secara ringkas namun jelas."
+        },
+        {
+            "id": 222,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "2. Visi, Misi, Tujuan, Strategi, dan Tata Nilai",
+            "keterangan": "Bagian ini berisi penjelasan singkat visi, misi, tujuan, strategi, dan tata nilai yang diterapkan di UPPS dan program studi yang diakreditasi(visi keilmuan/scientific vision)."
+        },
+        {
+            "id": 223,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "3. Organisasi dan Tata Kerja",
+            "keterangan": "Bagian ini memuat informasi terkait dokumen formal organisasi dan tata kerja yang berlaku, termasuk uraian secara ringkas tentang struktur organisasi dan tata kerja, tugas pokok, dan fungsinya (tupoksi) di lingkup UPPS dan program studi yang diakreditasi."
+        },
+        {
+            "id": 224,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "4. Mahasiswa dan Lulusan",
+            "keterangan": "Bagian ini memuat penjelasan ringkas tentang jumlah mahasiswa dan lulusan di program studi yang diakreditasi, termasuk kualitas masukan, prestasi akademik dan non-akademik terbaik yang dicapai mahasiswa dan lulusan, serta kinerja lulusan."
+        },
+        {
+            "id": 225,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "5. Dosen dan Tenaga Kependidikan",
+            "keterangan": "Bagian ini memuat penjelasan ringkas tentang jumlah dan kualifikasi SDM (dosen dan tenaga kependidikan) di program studi yang diakreditasi, kecukupan, kinerja, dan prestasi terbaik yang pernah dicapai."
+        },
+        {
+            "id": 226,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "6. Keuangan, Sarana, dan Prasarana",
+            "keterangan": "Bagian ini memuat penjelasan ringkas tentang kecukupan, kelayakan, kualitas, dan aksesibilitas sumber daya keuangan, sarana dan prasarana di UPPS dan program studi yang diakreditasi."
+        },
+        {
+            "id": 227,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "7. Sistem Penjaminan Mutu",
+            "keterangan": "Bagian ini memuat penjelasan implementasi Sistem Penjaminan Mutu yang sesuai dengan kebijakan, organisasi, instrumen yang dikembangkan di tingkat perguruan tinggi, monitoring dan evaluasi, pelaporan, dan tindak lanjutnya. Penjelasan sebaiknya berdasar siklus PPEPP yang dilakukan oleh UPPS dan program studi yang diakreditasi, termasuk pengakuan mutu dari lembaga audit eksternal, lembaga akreditasi, dan lembaga sertifikasi."
+        },
+        {
+            "id": 228,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "B. Profil Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "sub_kriteria": "8. Kinerja Unit Pengelola Program Studi dan Program Studi yang Diakreditasi",
+            "keterangan": "Bagian ini memuat penjelasan tentang luaran dan capaian yang paling diunggulkan oleh UPPS dan program studi yang diakreditasi."
+        },
+        {
+            "id": 231,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.1. Visi, Misi, Tujuan dan Strategi",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian, dan peningkatan Standar Perguruan Tinggi yang berkaitan dengan visi, misi, tujuan, dan strategi pencapaian tujuan (VMTS) UPPS. <br><br>Standar Perguruan Tinggi yang harus dirujuk adalah standar perguruan tinggi yang berkaitan dengan VMTS UPPS dan program studi yang diakreditasi.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2311,
+                    "title": "1.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan Visi, Misi, Tujuan, dan Strategi (VMTS) UPPS dan PS yang mencakup: <br>A. VMTS UPPS dan PS yang sesuai dengan VMTS PT, memayungi visi keilmuan program studi dan melibatkan pemangku kepentingan internal dan eksternal. <br>B. Strategi pencapaian VMTS UPPS dan PS yang memenuhi tahapan yang jelas, dokumen yang lengkap dan terkait pencapaian visi misi. <br>C. Visi keilmuan PS mengandung muatan KKNI level 6."
+                },
+                {
+                    "id": 2312,
+                    "title": "1.2 [PELAKSANAAN]",
+                    "keterangan": " Bagian ini berisi penjelasan tentang pelaksanaan atas kebijakan, standar, IKU, dan IKT yang berkaitan dengan VMTS UPPS dan PS mencakup: <br>A. Ketercapaian VMTS UPPS dan PS yang sesuai dengan VMTS PT, memayungi visi keilmuan program studi dan melibatkan pemangku kepentingan internal dan eksternal. <br>B.  Keterlaksanaan strategi pencapaian VMTS UPPS dan PS yang memenuhi tahapan yang jelas, dokumen yang lengkap dan terkait pencapaian visi misi. <br>C. Kesesuaian visi keilmuan PS mengandung muatan KKNI level 6."
+                },
+                {
+                    "id": 2313,
+                    "title": "1.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan VMTS UPPS dan PS, termasuk survei pemahaman dosen, tendik dan mahasiswa terhadap VMTS UPPS dan PS."
+                },
+                {
+                    "id": 2314,
+                    "title": "1.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian Standar (IKU dan IKT) yang berkaitan dengan VMTS UPPS dan PS."
+                },
+                {
+                    "id": 2315,
+                    "title": "1.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan VMTS UPPS dan PS."
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.2. Tata Kelola, Tata Pamong, dan Kerjasama",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti terkait tata kelola, tata pamong, dan Kerjasama. <br><br>SN-Dikti yang harus dijadikan acuan adalah  <br>(a) Standar Pengelolaan Pembelajaran,  <br>(b) Standar Pengelolaan Penelitian, dan  <br>(c) Standar Pengelolaan Pengabdian kepada Masyarakat (PkM).",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2321,
+                    "title": "2.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan Tata Kelola, Tata Pamong, dan Kerjasama yang mencakup: <br>A. Sistem tata pamong yang memenuhi aspek:  <br>&nbsp&nbsp&nbspa) Kredibel. <br>&nbsp&nbsp&nbspb) Transparan. <br>&nbsp&nbsp&nbspc) Akuntabel. <br>&nbsp&nbsp&nbspd) Bertanggung jawab. <br>&nbsp&nbsp&nbspe) Adil. <br>B. Sistem pengelolaan fungsional dan operasional UPPS dan PS yang didukung kecukupan dokumen yang diperlukan.<br>C. Kebijakan terkait pengembangan kerjasama. <br>D. Kebijakan terkait fungsi kelembagaan sistem penjaminan mutu internal."
+                },
+                {
+                    "id": 2322,
+                    "title": "2.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan atas kebijakan, standar, IKU, dan IKT yang berkaitan dengan Tata Kelola, Tata Pamong, dan Kerjasama mencakup: <br>A. Kepemimpinan UPPS dan PS dalam tiga aspek: operasional, organisasi dan publik. <br>B. Sistem pengelolaan fungsional dan operasional UPPS dan PS. <br>C. Kerjasama di bidang pendidikan, penelitian dan pengabdian kepada masyarakat. <br>D. Pelaksanaan proses penjaminan mutu internal"
+                },
+                {
+                    "id": 2323,
+                    "title": "2.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan Tata Kelola, Tata Pamong, dan Kerjasama. Termasuk survei kepuasan dosen, tenaga kependidikan dan mahasiswa terhadap Tata Kelola Organisasi UPPS dan PS."
+                },
+                {
+                    "id": 2324,
+                    "title": "2.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan Tata Kelola, Tata Pamong, dan Kerjasama."
+                },
+                {
+                    "id": 2325,
+                    "title": "2.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan Tata Kelola, Tata Pamong, dan Kerjasama."
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.3. Mahasiswa",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian, dan peningkatan Standar-PT yang berkaitan dengan mahasiswa dari UPPS dan program studi yang diakreditasi. <br><br>Standar-PT yang harus dirujuk adalah standar perguruan tinggi yang berkaitan dengan mahasiswa dari UPPS program studi yang diakreditasi.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2331,
+                    "title": "3.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan mahasiswa, mencakup: <br>A. Sistem rekrutmen (metode rekrutmen, kriteria) dan proses seleksi calon mahasiswa. <br>B. Sistem layanan kepada mahasiswa. <br>C. Kebijakan peningkatan animo calon mahasiswa di level lokal, nasional atau internasional."
+                },
+                {
+                    "id": 2332,
+                    "title": "3.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan atas kebijakan, standar, IKU, dan IKT yang berkaitan dengan mahasiswa, mencakup: <br>A. Sistem rekrutmen dan seleksi calon mahasiswa, serta pertumbuhan jumlah mahasiswa, sesuai <a href='/lkps/view/301'>Tabel 3.1<a>. <br>B. Mutu, akses dan kecukupan layanan kepada mahasiswa. <br>C. Upaya peningkatan animo calon mahasiswa di level lokal, nasional atau internasional."
+                },
+                {
+                    "id": 2333,
+                    "title": "3.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan mahasiswa, termasuk evaluasi tingkat kepuasan mahasiswa terhadap layanan mahasiswa."
+                },
+                {
+                    "id": 2334,
+                    "title": "3.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan mahasiswa."
+                },
+                {
+                    "id": 2335,
+                    "title": "3.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan mahasiswa."
+                }
+            ]
+        },
+        {
+            "id": 234,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.4. Sumber Daya Manusia",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti terkait sumber daya manusia (SDM) yang terdiri atas tenaga pendidik (dosen) dan tenaga kependidikan (tendik).   <br><br>SN-Dikti yang harus dijadikan acuan adalah  <br>(a) Standar Dosen dan Tendik,  <br>(b) Standar Peneliti, dan  <br>(c) Standar Pelaksana Pengabdian kepada Masyarakat (PkM).",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2341,
+                    "title": "4.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan Sumber Daya Manusia mencakup: <br>A. Profil DTPR (kecukupan jumlah, jabfung, kualifikasi, keahlian, beban kerja EWMP, keanggotaan dalam organisasi, dan sertifikasi profesi). <br>B. Pengembangan DTPR. <br>C. Pengembangan tenaga kependidikan. <br>D. Pengakuan/rekognisi atas kepakaran/prestasi/kinerja DTPR: a) menjadi visiting lecturer atau visiting scholar di program studi/perguruan tinggi terakreditasi A/Unggul atau program studi/perguruan tinggi internasional bereputasi. b) menjadi keynote speaker/invited speaker pada pertemuan ilmiah tingkat nasional/ internasional. c) menjadi editor atau mitra bestari pada jurnal nasional terakreditasi/jurnal internasional bereputasi di bidang infokom. d) menjadi staf ahli/narasumber di lembaga tingkat wilayah/nasional/internasional pada bidang infokom atau menjadi tenaga ahli/konsultan di lembaga/industri tingkat wilayah/nasional/ internasional pada bidang infokom e) mendapat penghargaan atas prestasi dan kinerja di tingkat wilayah/nasional/internasional."
+                },
+                {
+                    "id": 2342,
+                    "title": "4.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan atas kebijakan, standar, IKU, dan IKT yang berkaitan dengan Sumber Daya Manusia mencakup: <br>A. Kegiatan DTPR yang mencakup rata-rata beban tugas (EWMP), pembimbingan, keanggotaan dalam organisasi profesi dan kepemilikan sertifikasi profesi, sesuai <a href='/lkps/view/401'>Tabel 4.1<a>. <br>B. Pengembangan DTPR. <br>C. Pengembangan tenaga kependidikan, sesuai <a href='/lkps/view/402'>Tabel 4.2<a>. LKPS. <br>D. Pengakuan DTPR, sesuai <a href='/lkps/view/404'>Tabel 4.4<a>. <br>&nbsp&nbsp&nbspa) menjadi visiting lecturer atau visiting scholar di program studi/perguruan tinggi terakreditasi A/Unggul atau program studi/perguruan tinggi internasional bereputasi. <br>&nbsp&nbsp&nbspb) menjadi keynote speaker/invited speaker pada pertemuan ilmiah tingkat nasional/ internasional. <br>&nbsp&nbsp&nbspc) menjadi editor atau mitra bestari pada jurnal nasional terakreditasi/jurnal internasional bereputasi di bidang infokom <br>&nbsp&nbsp&nbspd) menjadi staf ahli/narasumber di lembaga tingkat wilayah/nasional/internasional pada bidang infokom atau menjadi tenaga ahli/konsultan di lembaga/industri tingkat wilayah/nasional/ internasional pada bidang infokom <br>&nbsp&nbsp&nbspe) mendapat penghargaan atas prestasi dan kinerja di tingkat wilayah/nasional/internasional."
+                },
+                {
+                    "id": 2343,
+                    "title": "4.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan sumber daya manusia, termasuk evaluasi tingkat kepuasan dosen dan tenaga kependidikan terhadap sistem pengelolaan SDM."
+                },
+                {
+                    "id": 2344,
+                    "title": "4.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan sumber daya manusia."
+                },
+                {
+                    "id": 2345,
+                    "title": "4.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan sumber daya manusia."
+                }
+            ]
+        },
+        {
+            "id": 235,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.5. Keuangan, Sarana, dan Prasarana",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti terkait keuangan, sarana, dan prasarana yang digunakan untuk pembelajaran, penelitian, dan pengabdian kepada masyarakat. <br><br>SN-Dikti yang harus dijadikan acuan adalah <br>(a) Standar Pembiayaan Pembelajaran, <br>(b) Standar Pendanaan dan Pembiayaan Penelitian, <br>(c) Standar Pendanaan dan Pembiayaan PkM, <br>(d) Standar Sarpras untuk Pembelajaran, <br>(e) Standar Sarpras untuk Penelitian, dan <br>(f) Standar Sarpras untuk PkM.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2351,
+                    "title": "5.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan keuangan, sarana, dan prasarana mencakup: <br>A. Pengelolaan dana dan pembiayaan untuk proses pembelajaran, penelitian dan PkM, pembiayaan untuk investasi (SDM, sarana dan prasarana) yang mendukung penyelenggaraan Tridarma. disertai dasar perhitungan kecukupan dan keberlanjutan keuangan, sarana, dan prasarana. <br>B. Pengelolaan sarana dan prasarana."
+                },
+                {
+                    "id": 2352,
+                    "title": "5.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan kebijakan dan standar yang berkaitan dengan keuangan, sarana, dan prasarana yang mencakup: <br>A. Pengelolaan dana dan pembiayaan untuk proses pembelajaran, penelitian dan PkM, pembiayaan untuk investasi (SDM, sarana dan prasarana) yang mendukung penyelenggaraan Tridarma, sesuai dengan <a href='/lkps/view/501'>Tabel 5.1<a>. <br>B. Pengelolaan sarana dan prasarana, serta kecukupannya untuk menunjang proses pembelajaran, penelitian dan PkM, meliputi laboratorium, perangkat keras, perangkat lunak, bandwidth, dan bahan pustaka, sesuai dengan <a href='/lkps/view/502'>Tabel 5.2<a> dan <a href='/lkps/view/503'>Tabel 5.3<a>."
+                },
+                {
+                    "id": 2353,
+                    "title": "5.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan yang berkaitan dengan keuangan, sarana, dan prasarana, termasuk evaluasi kepuasan dosen, tenaga kependidikan dan mahasiswa terhadap ketersediaan dan keteraksesan sarana prasarana."
+                },
+                {
+                    "id": 2354,
+                    "title": "5.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan keuangan, sarana, dan prasarana."
+                },
+                {
+                    "id": 2355,
+                    "title": "5.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan keuangan, sarana, dan prasarana."
+                }
+            ]
+        },
+        {
+            "id": 236,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.6. Pendidikan",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti yang berkaitan dengan pendidikan/ pembelajaran. <br><br>SN-Dikti yang harus dijadikan acuan adalah <br>(a) Standar Isi Pembelajaran, <br>(b) Standar Proses Pembelajaran, dan <br>(c) Standar Penilaian Pembelajaran. ",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2361,
+                    "title": "6.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan pendidikan/pembelajaran yang mencakup: <br>A. Profil Lulusan, Capaian Pembelajaran Lulusan (CPL) sesuai dengan Profil Lulusan dan jenjang KKNI/SKKNI. <br>B. Struktur Kurikulum berbasis KKNI/OBE/SKKNI sesuai dengan Profil Lulusan, Capaian Pembelajaran Lulusan (CPL), Capaian Pembelajaran Mata Kuliah (CPMK), RPS, Struktur Mata Kuliah dan Asesmen Pembelajaran. <br>C. Suasana akademik meliputi: (1) Bentuk interaksi antara dosen, mahasiswa dan sumber belajar; (2) Pemantauan kesesuaian proses terhadap rencana pembelajaran; (3) Keterlibatan pemangku kepentingan dalam proses evaluasi dan pemutakhiran kurikulum; (4) Penciptaan suasana akademik melalui kegiatan ilmiah yang terjadwal. <br>D. Mekanisme integrasi topik penelitian dan kegiatan PkM ke dalam proses pembelajaran. <br>E. Mekanisme proses evaluasi dan pemutakhiran kurikulum. <br>F. Mekanisme proses penyelesaian tugas akhir."
+                },
+                {
+                    "id": 2362,
+                    "title": "6.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan kebijakan dan standar yang berkaitan dengan pendidikan/pembelajaran yang mencakup: <br>A. Proses pembelajaran dengan mengacu pada kurikulum dan kebijakan pendidikan yang sudah ditetapkan meliputi kesesuaian Capaian Pembelajaran Lulusan dengan Profil Lulusan dan jenjang KKNI/SKKNI. <br>B. Proses pembelajaran yang sesuai dengan Struktur Kurikulum berbasis KKNI/OBE/SKKNI, sesuai dengan Profil Lulusan, Capaian Pembelajaran Lulusan (CPL), memiiki Struktur Matakuliah, Capaian Pembelajaran Mata Kuliah (CPMK), Asesmen Pembelajaran dan RPS, proses pembelajaran yang Isi materi pembelajaran sesuai dengan RPS, memiliki kedalaman dan keluasan yang relevan untuk mencapai Capaian Pembelajaran Lulusan dengan Asesmen Pembelajaran yang relevan. <br>C. Suasana akademik meliputi: (1) Bentuk interaksi antara dosen, mahasiswa dan sumber belajar; (2) Pemantauan kesesuaian proses terhadap rencana pembelajaran; (3) Keterlibatan pemangku kepentingan dalam proses evaluasi dan pemutakhiran kurikulum; (4) Penciptaan suasana akademik melalui kegiatan ilmiah yang terjadwal. <br>D. Proses integrasi topik penelitian dan kegiatan PkM ke dalam proses pembelajaran. <br>E. Proses evaluasi dan pemutakhiran kurikulum, dan keterlibatan pemangku kepentingan. <br>F. Proses penyelesaian tugas akhir."
+                },
+                {
+                    "id": 2363,
+                    "title": "6.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan pendidikan/ pembelajaran, termasuk evaluasi kepuasan mahasiswa terhadap proses pembelajaran."
+                },
+                {
+                    "id": 2364,
+                    "title": "6.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan pendidikan/pembelajaran, termasuk analisis dan tindak lanjut dari evaluasi kepuasan mahasiswa terhadap proses pembelajaran."
+                },
+                {
+                    "id": 2365,
+                    "title": "6.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan pendidikan/pembelajaran."
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.7. Penelitian",
+            "keterangan": "Kriteria ini mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti yang berkaitan dengan penelitian. <br><br>SN-Dikti yang harus dijadikan acuan adalah <br>(a) Standar Isi Penelitian, <br>(b) Standar Proses Penelitian, dan <br>(c) Standar Penilaian Penelitian.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2371,
+                    "title": "7.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU dan IKT yang berkaitan dengan penelitian DTPR yang mencakup: <br>A. Keberadaan lembaga/unit pengelola penelitian, baik berdiri sendiri atau bergabung dalam lembaga lain, yang dilengkapi Rencana Induk Penelitian atau peta jalan penelitian yang memayungi tema penelitian DTPR dan mahasiswa, serta penerapan keilmuan untuk menyelesaikan permasalahan industri atau masyarakat, dan dilengkapi dengan standar penelitian.   <br>B. Dokumen pengelolaan penelitian yang lengkap. <br>C. Mekanisme pelaksanaan penelitian DTPR sesuai dengan agenda penelitian DTPR yang merujuk kepada peta jalan penelitian. <br>D. Mekanisme monitoring kesesuaian penelitian DTPR dengan peta jalan, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan program studi."
+                },
+                {
+                    "id": 2372,
+                    "title": "7.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan kebijakan dan standar terkait penelitian DTPR yang mencakup: <br>A. Proses pengelolaan lembaga penelitian dalam mengelola penelitian DTPR dan penerapan keilmuan untuk menyelesaikan permasalahan industri atau masyarakat, dan dilengkapi dengan standar penelitian yang relevan dengan Rencana Induk Penelitian yang memuat peta jalan penelitian dan/atau Fokus Penelitian PS. <br>B. Proses pengelolaan penelitian dengan dokumen yang lengkap, mulai dari call for proposal hingga laporan akhir. <br>C. Pelaksanaan penelitian DTPR sesuai dengan agenda penelitian DTPR yang merujuk kepada Rencana Induk Penelitian. <br>D. Pelaksanaan monitoring kesesuaian penelitian DTPR dengan Rencana Induk Penelitian, dan penggunaan hasil evaluasi untuk perbaikan relevansi penelitian dan pengembangan keilmuan program studi."
+                },
+                {
+                    "id": 2373,
+                    "title": "7.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan penelitian DTPR, termasuk survei kepuasan DTPR terhadap pengelolaan kegiatan penelitian."
+                },
+                {
+                    "id": 2374,
+                    "title": "7.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR."
+                },
+                {
+                    "id": 2375,
+                    "title": "7.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan penelitian DTPR."
+                }
+            ]
+        },
+        {
+            "id": 238,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.8. Pengabdian Kepada Masyarakat",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti yang berkaitan dengan pengabdian kepada masyarakat (PkM). <br><br>SN-Dikti yang harus dijadikan acuan adalah <br>(a) Standar Isi PkM, <br>(b) Standar Proses PkM, dan <br>(c) Standar Penilaian PkM.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2381,
+                    "title": "8.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan kegiatan PkM DTPR yang mencakup: <br>A. Keberadaan lembaga/unit pengelola PkM, baik berdiri sendiri atau bergabung dalam lembaga lain, yang dilengkapi Rencana Induk atau peta jalan yang memayungi tema PkM DTPR dan hilirisasi/penerapan keilmuan program studi, dan dilengkapi dengan standar PkM. <br>B. Dokumen pengelolaan PkM yang lengkap. <br>C. Mekanisme pelaksanaan PkM DTPR dan mahasiswa sesuai dengan agenda kegiatan PkM DTPR yang merujuk kepada peta jalan PkM. <br>D. Mekanisme monitoring kesesuaian PkM DTPR dan mahasiswa dengan peta jalan dan penggunaan hasil evaluasi untuk perbaikan relevansi PkM."
+                },
+                {
+                    "id": 2382,
+                    "title": "8.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan kebijakan dan standar yang berkaitan dengan kegiatan PkM mencakup: <br>A. Proses pengelolaan lembaga PkM dalam mengelola PkM DTPR dan mahasiswa serta penerapan keilmuan untuk menyelesaikan permasalahan industri atau masyarakat yang relevan dengan peta jalan PkM dan kesesuaiannya dengan standar PkM. <br>B. Pengelolaan PkM dengan dokumen yang lengkap, mulai dari call for proposal hingga laporan akhir. <br>C. Pelaksanaan PkM DTPR dan mahasiswa sesuai dengan agenda kegiatan PkM DTPR yang merujuk kepada peta jalan PkM. <br>D. Pelaksanaan monitoring kesesuaian PkM DTPR dan mahasiswa dengan peta jalan, serta penggunaan hasil monitoring untuk perbaikan relevansi PkM."
+                },
+                {
+                    "id": 2383,
+                    "title": "8.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan kegiatan PkM DTPR, termasuk survei kepuasan dosen terhadap pengelolaan kegiatan PkM."
+                },
+                {
+                    "id": 2384,
+                    "title": "8.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian standar (IKU dan IKT) yang berkaitan dengan kegiatan PkM DTPR"
+                },
+                {
+                    "id": 2385,
+                    "title": "8.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap standar (IKU dan IKT) yang berkaitan dengan kegiatan PkM DTPR."
+                }
+            ]
+        },
+        {
+            "id": 239,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "C. Kriteria",
+            "sub_kriteria": "C.9. Luaran dan Capaian Tridarma",
+            "keterangan": "Kriteria ini berisi penjelasan yang mencakup penetapan, pelaksanaan, evaluasi, pengendalian dan peningkatan Standar-Dikti yang berkaitan dengan pengabdian kepada masyarakat (PkM). <br><br>SN-Dikti yang harus dijadikan acuan adalah <br>(a) Standar Kompetensi Lulusan, <br>(b) Standar Hasil Penelitian, dan <br>(c) Standar Hasil PkM.",
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2391,
+                    "title": "9.1 [PENETAPAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang kebijakan, standar, IKU, dan IKT yang berkaitan dengan luaran dan capaian kegiatan Tridarma Perguruan Tinggi mencakup: <br>A. Pendidikan: Pemenuhan Capaian Pembelajaran Lulusan (CPL), rata-rata IPK, prestasi mahasiswa, kelulusan tepat waktu, pelacakan dan perekaman data lulusan, rata-rata masa tunggu, kesesuaian bidang kerja dengan bidang program studi, karya DTPR/mahasiswa yang mendapat HKI. <br>B. Penelitian: jumlah publikasi penelitian DTPR dengan tema bidang infokom. <br>C. Penelitian: jumlah penelitian DTPR dengan tema bidang infokom. <br>D. Penelitian: jumlah artikel karya ilmiah DTPR bidang infokom yang disitasi. <br>E. Penelitian: jumlah penelitian bidang infokom yang mendapat pengakuan HKI (Paten, Paten Sederhana, Hak Cipta, Desain Produk Industri). <br>F. PkM: jumlah kegiatan PkM yang relevan dengan bidang infokom yang diadopsi oleh masyarakat. <br>G. PkM: jumlah PkM bidang infokom yang mendapat pengakuan HKI (Paten, Paten Sederhana, Hak Cipta, Desain Produk Industri)."
+                },
+                {
+                    "id": 2392,
+                    "title": "9.2 [PELAKSANAAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pelaksanaan kebijakan, standar, IKU, dan IKT yang berkaitan dengan luaran dan capaian tridarma Perguruan Tinggi sebagaimana di <a href='/lkps/view/901'>Tabel 9.1<a>, <a href='/lkps/view/902'>Tabel 9.2<a>, <a href='/lkps/view/903'>Tabel 9.3<a>, <a href='/lkps/view/904'>Tabel 9.4<a>, <a href='/lkps/view/905'>Tabel 9.5<a>, <a href='/lkps/view/906'>Tabel 9.6<a>, mencakup: <br>A. Pendidikan: Pemenuhan Capaian pembelajaran Lulusan (CPL), rata-rata IPK, prestasi mahasiswa, kelulusan tepat waktu, pelacakan dan perekaman data lulusan, rata-rata masa tunggu, kesesuaian bidang kerja dengan bidang program studi, karya dosen/mahasiswa yang mendapat HKI. <br>B. Penelitian: jumlah publikasi penelitian DTPR dengan tema bidang infokom. <br>C. Penelitian: jumlah penelitian DTPR bersama mahasiswa dengan tema bidang infokom. <br>D. Penelitian: jumlah artikel karya ilmiah DTPR bidang infokom yang disitasi. <br>E. Penelitian: jumlah penelitian bidang infokom yang mendapat pengakuan HKI (Paten, Paten Sederhana, Hak Cipta, Desain Produk Industri). <br>F. PkM: jumlah kegiatan PkM yang relevan dengan bidang infokom yang diadopsi oleh masyarakat. <br>G. PkM: Jumlah PkM bidang infokom yang mendapat pengakuan HKI (Paten, Paten Sederhana, Hak Cipta, Desain Produk Industri)"
+                },
+                {
+                    "id": 2393,
+                    "title": "9.3 [EVALUASI]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang evaluasi secara berkala mengenai keterlaksanaan kebijakan dan ketercapaian standar (IKU dan IKT) sehingga menemukenali praktik baik, praktik buruk dan praktik yang baru yang berkaitan dengan luaran dan capaian kegiatan Tridarma Perguruan Tinggi."
+                },
+                {
+                    "id": 2394,
+                    "title": "9.4 [PENGENDALIAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang pengendalian dan tindak lanjut (revisi dan rekomendasi) terhadap hasil evaluasi ketercapaian Standar (IKU dan IKT) yang berkaitan dengan luaran dan capaian kegiatan Tridarma Perguruan Tinggi."
+                },
+                {
+                    "id": 2395,
+                    "title": "9.5 [PENINGKATAN]",
+                    "keterangan": "Bagian ini berisi penjelasan tentang optimalisasi (peningkatan, penyesuaian, dan penyelarasan) terhadap Standar (IKU dan IKT) yang berkaitan dengan luaran dan capaian kegiatan tridarma Perguruan Tinggi."
+                }
+            ]
+        },
+        {
+            "id": 241,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "D. Suplemen Program Studi",
+            "sub_kriteria": "1. Kriteria Pendidikan",
+            "keterangan": null,
+            "multi_input": true,
+            "multi_input_value": [
+                {
+                    "id": 2411,
+                    "title": "1.1. Mata Kuliah Inti/Khas Teknologi Informasi",
+                    "keterangan": "Bagian ini berisi uraian daftar mata kuliah inti/khas Teknologi Informasi. Mata kuliah inti tersebut harus memuat cakupan <br>(1) Dasar-dasar perangkat lunak: strategi penyelesaian masalah, praktek pemrograman aplikasi modern, prinsip dan pengembangan algoritma, dan lain-lain; <br>(2) Manajemen informasi: basis data tujuan khusus, pengelolaan lingkungan basis data, dan lain-lain; <br>(3) Teknologi platform: infrastruktur komputasi, arsitektur dan organisasi, lingkungan eksekusi aplikasi, sistem operasi, dan lain-lain; <br>(4) Paradigma sistem: arsitektur sistem, analisis kinerja, dan lain-lain; <br>(5) Teknologi sistem terintegrasi: pemrograman integratif, protokol komunikasi antar sistem, dan lain-lain;  <br>(6) Jaringan: dasar jaringan, layanan jaringan aplikasi, routing, switching, Internet, dan lain-lain;  <br>(7) Sistem web dan seluler (mobile):  konsep aplikasi, kerangka pengembangan, perangkat lunak sosial, dan lain-lain;  <br>(8) desain pengalaman pengguna: aspek domain aplikasi pengalaman pengguna yang afektif, evaluasi yang berpusat pada manusia, teknologi pendukung, dan aksesibilitas advokasi pengguna, <br>(9) Prinsip keamanan siber: kriptografi, dasar-dasar malware, dan lain-lain; <br>(10) Praktek professional global: tanggung jawab dan isu-isu professional, prinsip manajemen proyek, manajemen sumber daya dan tata kelola TI, prinsip sistem informasi, isu etika, hukum, dan privasi,  serta (11) proyek utama (major projects) yang merupakan integrasi dan penerapan pengetahuan dan keterampilan yang diperoleh dari tugas-tugas mata kuliah sebelumnya. Uraian disertai dengan bukti berupa RPS mata kuliah inti tersebut."
+                },
+                {
+                    "id": 2412,
+                    "title": "1.2. Mata kuliah Pilihan Domain Spesifik dan Lingkungan Teknologi Informasi",
+                    "keterangan": "Bagian ini berisi uraian daftar mata kuliah pilihan Domain Teknologi Informasi. Daftar mata kuliah tersebut perlu merujuk ke ACM-IEEE-CS IT 2017/IS 2020, mencakup bidang kompetensi: aplikasi seluler (mobile), komputasi awan, Internet of Things, skalabilitas dan analitik data, sistem dan layanan virtual, dan Software Development and Management, tantangan baru di keamanan siber. Jika kurikulum yang ada tidak merujuk pada ACM-IEEECS IT 2017/IS 2020, perlu dilakukan pemetaan rujukan kurikulum yang digunakan saat ini dengan ACM-IEEE-CS IT2017/IS2020. Uraian disertai dengan bukti berupa RPS mata kuliah tersebut."
+                },
+                {
+                    "id": 2413,
+                    "title": "1.3. Mata kuliah terkait Matematika dan Ilmu Dasar yang Relevan dengan Bidang Teknologi Informasi",
+                    "keterangan": "Bagian ini berisi uraian struktur kurikulum yang memuat daftar mata kuliah terkait matematika dan ilmu dasar, misalkan matematika diskrit, aljabar linier, statistik dan probabilitas, analitik data. Penjelasan harus disertai bukti berupa RPS."
+                },
+                {
+                    "id": 2414,
+                    "title": "1.4. Proyek utama (Capstone project) yang Relevan dengan Bidang Teknologi Informasi",
+                    "keterangan": "Bagian ini berisi uraian pelaksanaan proyek utama (selain TA) yang relevan dilakukan mahasiswa program studi sarjana Teknologi Informasi. Proyek ini merupakan integrasi dari dan penerapan pengetahuan dan keterampilan yang diperoleh dari tugas-tugas mata kuliah sebelumnya. Keluaran dari proyek ini dapat berupa aplikasi berbasis web, aplikasi seluler (mobile), aplikasi manajemen jaringan dan komputasi, aplikasi keamanan siber, aplikasi perangkat IOT, dan lain-lain. Penjelasan yang disampaikan harus mencakup pedoman pelaksanaan, daftar mata kuliah yang diintegrasi, dan hasil-hasil proyek utama. Proyek ini bisa merupakan bagian dari kurikulum reguler maupun kurikulum Merdeka Belajar-Kampus Merdeka (MBKM). Buktinya berupa dokumen rancangan kurikulum, dan laporan proyek utama."
+                }
+            ]
+        },
+        {
+            "id": 242,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "D. Suplemen Program Studi",
+            "sub_kriteria": "2. Kriteria Pengabdian kepada Masyarakat",
+            "keterangan": "Bagian ini berisi uraian upaya yang telah dilakukan oleh dosen (DTPR) dalam rangka pengembangan aplikasi Teknologi Informasi yang digunakan di masyarakat dan pemangku kepentingan pada suatu domain. Domain yang dimaksud antara lain: kesehatan, keuangan, pertanian, UMKM, pendidikan, dan lain-lain."
+        },
+        {
+            "id": 251,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "E. Analisis Dan Penetapan Program Pengembangan Unit Pengelola Program Studi Terkait Program Studi Yang Diakreditasi",
+            "sub_kriteria": "1. Analisis Capaian Kinerja",
+            "keterangan": "Pada bagian ini, UPPS menjelaskan hasil analisis capaian kinerja dari setiap kriteria. Aspekaspek analisis antar kriteria yang mencakup kelengkapan, keluasan, kedalaman, ketepatan, dan ketajaman analisis untuk mengidentifikasi akar masalah. Analisis harus didukung oleh data/informasi yang andal dan memadai serta konsisten dengan hasil analisis yang disampaikan pada setiap kriteria di atas."
+        },
+        {
+            "id": 252,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "E. Analisis Dan Penetapan Program Pengembangan Unit Pengelola Program Studi Terkait Program Studi Yang Diakreditasi",
+            "sub_kriteria": "2. Analisis SWOT atau Analisis Lain yang Relevan",
+            "keterangan": "Pada bagian ini, UPPS menjelaskan hasil analisis SWOT/analisis lainnya yang relevan tentang kekuatan atau faktor pendorong, kelemahan atau faktor penghambat, peluang dan ancaman yang dihadapi dalam keterkaitannya dengan hasil analisis capaian kinerja. Hasil identifikasi tersebut dianalisis untuk menentukan posisi UPPS dan program studi yang diakreditasi, serta menjadi dasar untuk mendapatkan alternatif solusi dan menetapkan program pengembangan."
+        },
+        {
+            "id": 253,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "E. Analisis Dan Penetapan Program Pengembangan Unit Pengelola Program Studi Terkait Program Studi Yang Diakreditasi",
+            "sub_kriteria": "3. Strategi Pengembangan",
+            "keterangan": "Pada bagian ini, UPPS menjelaskan kemampuan UPPS dalam menetapkan strategi dan program pengembangan. Strategi dan program pengembangan perlu memperhatikan prioritas sesuai dengan kapasitas, kebutuhan, dan VMT UPPS secara keseluruhan, terutama pengembangan program studi yang diakreditasi."
+        },
+        {
+            "id": 254,
+            "bab_title": "II. LAPORAN EVALUASI DIRI",
+            "sub_bab": "E. Analisis Dan Penetapan Program Pengembangan Unit Pengelola Program Studi Terkait Program Studi Yang Diakreditasi",
+            "sub_kriteria": "4. Program Keberlanjutan",
+            "keterangan": "Pada bagian ini, UPPS menjelaskan program pengembangan dan praktik baik yang dihasilkan dapat dijamin keberlangsungannya. Penjelasan yang disampaikan juga harus berisi jaminan ketersediaan sumberdaya untuk mendukung pelaksanaan program termasuk rencana penjaminan mutu yang berkelanjutan."
+        },
+        {
+            "id": 311,
+            "bab_title": "III. PENUTUP",
+            "sub_bab": null,
+            "sub_kriteria": null,
+            "keterangan": "Bagian ini berisi deskripsi yang memuat kesimpulan akhir dari Laporan Evaluasi Diri."
+        }
+    ]
+}

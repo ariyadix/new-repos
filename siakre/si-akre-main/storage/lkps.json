@@ -1,0 +1,52 @@
+{
+    "lkps": [
+        {
+            "id": 301,
+            "table": "jcmb"
+        },
+        {
+            "id": 401,
+            "table": "reratadtpr"
+        },
+        {
+            "id": 402,
+            "table": "ktk"
+        },
+        {
+            "id": 501,
+            "table": "spps"
+        },
+        {
+            "id": 502,
+            "table": "addsi"
+        },
+        {
+            "id": 503,
+            "table": "sarpra"
+        },
+        {
+            "id": 901,
+            "table": "ipk"
+        },
+        {
+            "id": 902,
+            "table": "ktw"
+        },
+        {
+            "id": 903,
+            "table": "kpl"
+        },
+        {
+            "id": 904,
+            "table": "mt"
+        },
+        {
+            "id": 905,
+            "table": "kbkl"
+        },
+        {
+            "id": 906,
+            "table": "pnpkm"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+th,
+td {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.text-start {
+    text-align: start !important;
+}
+.sub-table {
+    text-align: left !important;
+}
+.table-isi {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.paper-preview {
+    display: block;
+    max-width: 871px;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    padding: 1rem;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 1cm 2cm 2cm;
+}
+input[type=number].hide_num{
+  -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.content{
+    position: relative;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* right: 15px; */
+  z-index: 10;
+}
+.hidden{
+    display: none;
+}
+.sticky + .card {
+  /* margin-top: 156px; */
+}

@@ -1,0 +1,71 @@
+[06-May-2022 16:03:33 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 38
+[06-May-2022 16:03:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 38
+[06-May-2022 16:03:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 16:03:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 16:25:54 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/penz1777/public_html/db/tb_identitas_kelompok/modifikasi.php on line 40
+[06-May-2022 16:25:54 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/penz1777/public_html/db/tb_identitas_kelompok/modifikasi.php on line 40
+[06-May-2022 16:25:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/modifikasi.php on line 43
+[06-May-2022 16:25:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/modifikasi.php on line 44
+[06-May-2022 16:55:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 16:55:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 16:55:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 16:55:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 16:55:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 16:55:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 16:56:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 16:56:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 16:56:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 16:56:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 16:56:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 16:56:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 17:02:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 17:02:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 17:02:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 17:10:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 17:10:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 17:10:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 17:50:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 17:50:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 17:50:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 17:52:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 17:52:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 17:52:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 17:57:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 17:57:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 17:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 18:10:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 18:10:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 18:10:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 18:10:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 18:10:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 18:10:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 18:18:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_identitas_kelompok/koneksi.php on line 2
+[06-May-2022 18:18:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 41
+[06-May-2022 18:18:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 18:24:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 19:33:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 19:58:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 19:58:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 19:59:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 20:02:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 20:07:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 20:10:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[06-May-2022 20:14:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_identitas_kelompok/lihat.php on line 42
+[07-May-2022 19:53:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:53:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 130
+[07-May-2022 19:53:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 131
+[07-May-2022 19:53:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:53:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 130
+[07-May-2022 19:53:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 131
+[07-May-2022 19:53:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:53:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 130
+[07-May-2022 19:53:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 131
+[07-May-2022 19:58:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:58:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_trx/modifikasi3.php on line 131
+[07-May-2022 19:58:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_trx/modifikasi3.php on line 132
+[07-May-2022 19:58:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:58:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 130
+[07-May-2022 19:58:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_trx/lihat3.php on line 131
+[09-May-2022 06:31:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_trx/koneksi.php on line 9
+[09-May-2022 06:31:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_trx/koneksi.php on line 9

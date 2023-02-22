@@ -1,0 +1,90 @@
+[06-May-2022 17:12:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 17:12:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 17:12:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 17:12:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 17:12:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 17:12:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 17:51:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 17:51:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 17:51:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 17:51:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 17:51:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 17:51:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 17:52:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 17:52:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 17:52:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 18:10:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'uD)f]~zQ&amp;%2Y'@'localhost' (using password: YES) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 2
+[06-May-2022 18:10:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 34
+[06-May-2022 18:10:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 18:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[06-May-2022 18:30:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_ikan/koneksi.php:9) in /home/penz1777/public_html/db/tb_ikan/tambah_aksi.php on line 15
+[06-May-2022 18:30:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_ikan/koneksi.php:9) in /home/penz1777/public_html/db/tb_ikan/tambah_aksi.php on line 15
+[06-May-2022 18:33:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_ikan/koneksi.php:9) in /home/penz1777/public_html/db/tb_ikan/tambah_aksi.php on line 15
+[06-May-2022 18:33:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 35
+[07-May-2022 19:51:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:51:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 131
+[07-May-2022 19:51:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 132
+[07-May-2022 19:59:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[07-May-2022 19:59:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 131
+[07-May-2022 19:59:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 132
+[07-May-2022 20:42:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_ikan/koneksi.php:9) in /home/penz1777/public_html/db/tb_ikan/tambah_aksi.php on line 16
+[07-May-2022 20:44:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_ikan/koneksi.php:9) in /home/penz1777/public_html/db/tb_ikan/tambah_aksi.php on line 16
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/koneksi.php on line 3
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 135
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 136
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 3
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 177
+[08-May-2022 23:56:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 178
+[08-May-2022 23:56:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 3
+[08-May-2022 23:56:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 177
+[08-May-2022 23:56:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 178
+[08-May-2022 23:57:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penz1777/public_html/db/tb_ikan/koneksi.php on line 3
+[08-May-2022 23:57:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 177
+[08-May-2022 23:57:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/lihat.php on line 178
+[09-May-2022 05:48:19 Asia/Jakarta] PHP Fatal error:  Uncaught Dompdf\Exception: Min/max width is undefined for table rows in /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:81
+Stack trace:
+#0 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(899): Dompdf\FrameReflower\TableRow->get_min_max_width()
+#1 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/AbstractFrameReflower.php(422): Dompdf\FrameDecorator\AbstractFrameDecorator->get_min_max_width()
+#2 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/Block.php(936): Dompdf\FrameReflower\AbstractFrameReflower->get_min_max_child_width()
+#3 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/AbstractFrameReflower.php(460): Dompdf\FrameReflower\Block->get_min_max_content_width()
+#4 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(899): Dompdf\FrameReflower\AbstractFrameReflower->get_min_max_width()
+#5 /home/penz1777/public_html/vendor/dompdf/dompdf/src/Fr in /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 81
+[09-May-2022 05:48:55 Asia/Jakarta] PHP Fatal error:  Uncaught Dompdf\Exception: Frame not found in cellmap in /home/penz1777/public_html/vendor/dompdf/dompdf/src/Cellmap.php:350
+Stack trace:
+#0 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php(43): Dompdf\Cellmap->get_frame_position(Object(Dompdf\FrameDecorator\TableCell))
+#1 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(891): Dompdf\FrameReflower\TableCell->reflow(Object(Dompdf\FrameDecorator\Block))
+#2 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(891): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\TableCell))
+#4 /home/penz1777/public_html/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php(95): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\TableCell))
+#5 /hom in /home/penz1777/public_html/vendor/dompdf/dompdf/src/Cellmap.php on line 350
+[09-May-2022 07:12:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:16:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:16:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:16:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:17:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:17:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:18:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:19:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:19:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '{' or '$' in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 193
+[09-May-2022 07:21:14 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:21:25 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:21:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 07:21:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:21:33 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:21:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 07:22:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:22:52 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 07:25:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:25:33 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:25:42 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 07:27:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 07:28:05 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 14:04:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 14:04:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 14:11:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 14:11:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 20:32:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[09-May-2022 20:32:39 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/cetak.php on line 85
+[09-May-2022 22:20:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[10-May-2022 16:39:20 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87
+[10-May-2022 16:39:27 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/penz1777/public_html/db/tb_ikan/laporan_pdf.php on line 87

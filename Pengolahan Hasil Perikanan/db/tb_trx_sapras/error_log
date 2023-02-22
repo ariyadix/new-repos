@@ -1,0 +1,2 @@
+[06-May-2022 19:51:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_trx_sarpras/koneksi.php:9) in /home/penz1777/public_html/db/tb_trx_sarpras/tambah_aksi.php on line 20
+[06-May-2022 19:51:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/penz1777/public_html/db/tb_trx_sarpras/koneksi.php:9) in /home/penz1777/public_html/db/tb_trx_sarpras/tambah_aksi.php on line 20

@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KELOMPOK 3</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header class="navbar sticky-top navbar-expand-lg navbar-dark  main-nav">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src="assets/img/header.png" class="main-logo-putih">
+            <img src="assets/img/header.png" class="main-logo-hitam"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 py-3">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link" href="biodata.html">Biodata</a>
+              </li>
+            
+             
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Lihat Data Kelompok
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="db/tb_identitas_kelompok/lihat.php">Data Identitas Kelompok</a></li>
+                  <li><a class="dropdown-item" href="db/tb_identitas_anggota/lihat.php">Data Identitas Anggota</a></li>
+                  <li><a class="dropdown-item" href="db/tb_sapras/lihat.php">Data Sapras</a></li>
+                  <li><a class="dropdown-item" href="db/tb_ikan/lihat.php">Data Ikan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_kemasan_produk/lihat.php">Data Kemasan Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_produk_olahan/lihat2.php">Data Produk Olahan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx/lihat3.php">Data Trx</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_rencana/lihat_rencana.php">Data Qry Trx Rencana</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_produksi/lihat_produksi.php">Data Trx Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx_sarpras/lihat3.php">Data Trx Sapras</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_surat/lihat.php">Data Qry Trx Surat</a></li>
+                   <li><a class="dropdown-item" href="../tb_qry_trx_notulen/lihat.php">Data Qry Trx Notulen</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_catatan_keuangan/lihat.php">Data Qry Trx Catatan Keuangan</a></li>
+                  <li><a class="dropdown-item" href="../tb_bukutamu/lihat.php">Data Qry Trx Catatan Buku Tamu</a></li>
+                  
+                  </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Input
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="db/tb_identitas_kelompok/input.php">Input Data Identitas Kelompok</a></li>
+                  <li><a class="dropdown-item" href="db/tb_identitas_anggota/input.php">Input Data Identitas Anggota</a></li>
+                  <li><a class="dropdown-item" href="db/tb_sapras/input.php">Input Data Sapras</a></li>
+                  <li><a class="dropdown-item" href="db/tb_ikan/input.php">Input Data Ikan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_kemasan_produk/input_data.php">Input Data Kemasan Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_produk_olahan/input_data.php">Input Data Produk Olahan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx/input_data.php">Input Data Trx</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_rencana/input_rencana.php">Input Data Qry Trx Rencana</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_produksi/input_data.php">Input Data Trx Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx_sarpras/input_sarpras.php">Input Data Trx Sapras</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_surat/input.php">Input Data Qry Trx Surat</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_notulen/input.php">Input Data Qry Trx Notulen</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_catatan_keuangan/input.php">Input Data Qry Trx Catatan Keuangan</a></li>
+                  <li><a class="dropdown-item" href="../tb_bukutamu/input.php">Input Qry Trx Catatan Buku Tamu</a></li>
+                  </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Modifikasi
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="db/tb_identitas_kelompok/modifikasi.php">Modifikasi Data Identitas Kelompok</a></li>
+                  <li><a class="dropdown-item" href="db/tb_identitas_anggota/modifikasi.php">Modifikasi Data Identitas Anggota</a></li>
+                  <li><a class="dropdown-item" href="db/tb_sapras/modifikasi.php ">Modifikasi Data Sapras</a></li>
+                  <li><a class="dropdown-item" href="db/tb_ikan/modifikasi.php">Modifikasi Data Ikan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_kemasan_produk/modifikasi.php">Modifikasi Data Kemasan Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_produk_olahan/modifikasi2.php">Modifikasi Data Produk Olahan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx/modifikasi3.php">Modifikasi Data Trx</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_rencana/modifikasi_rencana.php">Modifikasi Data Qry Trx Rencana</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_produksi/modifikasi_produksi.php">Modifikasi Data Trx Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx_sarpras/modifikasi_sarpras.php">Modifikasi Data Trx Sapras</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_surat/modifikasi.php">Modifikasi Data Qry Trx Surat</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_notulen/modifikasi.php">Modifikasi Data Qry Trx Notulen</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_catatan_keuangan/modifikasi.php">Modifikasi Data Qry Trx Catatan Keuangan</a></li>
+                  <li><a class="dropdown-item" href="../tb_bukutamu/modifikasi.php">Modifikasi Data Qry Trx Catatan Buku Tamu</a></li>
+                  
+                  </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Laporan Data
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="db/tb_identitas_anggota/laporan.php">Data Identitas Kelompok</a></li>
+                  <li><a class="dropdown-item" href="db/tb_identitas_anggota/laporan.php">Data Identitas Anggota</a></li>
+                  <li><a class="dropdown-item" href="db/tb_sapras/laporan.php">Data Sapras</a></li>
+                  <li><a class="dropdown-item" href="db/tb_ikan/laporan.php">Data Ikan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_kemasan_produk/laporan.php">Data Kemasan Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_produk_olahan/laporan.php">Data Produk Olahan</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx/laporan.php">Data Trx</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_rencana/laporan.php">Data Qry Trx Rencana</a></li>
+                  <li><a class="dropdown-item" href="db/tb_qry_trx_produksi/laporan.php">Data Trx Produk</a></li>
+                  <li><a class="dropdown-item" href="db/tb_trx_sarpras/laporan.php">Data Trx Sapras</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_surat/lihat.php">Data Qry Trx Surat</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_notulen/laporan.php">Data Qry Trx Notulen</a></li>
+                  <li><a class="dropdown-item" href="../tb_qry_trx_catatan_keuangan/laporan.php">Laporan Data Qry Trx Catatan Keuangan</a></li>
+                  <li><a class="dropdown-item" href="../tb_bukutamu/laporan.php">Data Qry Trx Catatan Buku Tamu</a></li>
+                  
+                  </ul>
+              </li>
+            </ul>
+           
+          </div>
+        </div>
+      </header>
+      <section class="main-biru">
+        <div class="container py-5">
+            <div class="text-center"><h1>Biodata</h1></div>
+        </div>
+    </section>
+    <section class="container py-5">
+      <div class="row">
+         <div class="col-lg-8 mx-auto">
+            <div class="text-center"> <h2><p>Let's Introduce Our Team</p></h2></div>
+            <style>
+                body {
+                  background-color: #e8e8e8;
+                }
+                
+                .kartu {
+                  width: 800px;
+                  margin: 0 auto;
+                  margin-top: 70px;
+                      box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.03);
+              transition: all .3s;
+                     background-color: #591869;
+              border: solid 8px #ea92ff;
+              border-top-right-radius: 80px;
+              border-bottom-left-radius: 80px;
+                } 
+                .kartu:hover {
+                  background-color: #1f8a45;
+                  border: solid 8px #4fd47e;
+                  border-top-left-radius: 80px;
+              border-bottom-right-radius: 80px;
+              border-top-right-radius: 0px;
+              border-bottom-left-radius: 0px;
+                }
+                .foto {
+                      padding: 20px;
+              margin-left: 30px;
+              margin-top: 10px;
+                }
+                tbody {
+              font-size: 20px;
+              font-weight: 300;
+              color:white;
+          }
+          .biodata {
+              margin-top: 30px;
+          }
+              </style>
+            </head>
+            <body>
+                           <div class="container">
+            <div class="card kartu">
+              <div class="row">
+                <div class="col-md-4">
+                <div class="foto">
+                  <img src="assets/img/dzakiy.png" class="img-thumbnail" alt="" width="150" height="auto">
+                </div>
+                </div>
+                <div class="col-md-8 kertas-biodata">
+                  <div class="biodata">
+                  <table width="100%" border="0">
+              <tbody><tr>
+                  <td valign="top">
+                  <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+                    <tbody>
+                      <tr>
+                        <td width="25%" valign="top" class="textt">Nama</td>
+                          <td width="2%">:</td>
+                          <td style="color: #e9a7f9; font-weight:bold">MUHAMMAD DZAKIY ZAIDAN</td>
+                      </tr>
+                    <tr>
+                        <td class="textt">NIM</td>
+                          <td>:</td>
+                          <td>1910715210005</td>
+                      </tr>
+                    <tr>
+                        <td valign="top" class="textt">Email</td>
+                          <td valign="top">:</td>
+                          <td>m.dzakiy.z@gmail.com</td>
+                      </tr>
+                     </tbody></table>
+                  </td>
+              </tr>
+              </tbody></table>
+            </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+      </div>
+    </section>
+    <div class="container">
+      <div class="card kartu">
+        <div class="row">
+          <div class="col-md-4">
+          <div class="foto">
+            <img src="assets/img/refa.png" class="img-thumbnail" alt="" width="150" height="auto">
+          </div>
+          </div>
+          <div class="col-md-8 kertas-biodata">
+            <div class="biodata">
+            <table width="100%" border="0">
+        <tbody><tr>
+            <td valign="top">
+            <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+              <tbody>
+                <tr>
+                  <td width="25%" valign="top" class="textt">Nama</td>
+                    <td width="2%">:</td>
+                    <td style="color: #e9a7f9; font-weight:bold">Refa Nursakinah</td>
+                </tr>
+              <tr>
+                  <td class="textt">NIM</td>
+                    <td>:</td>
+                    <td>1910715320004</td>
+                </tr>
+              <tr>
+                  <td valign="top" class="textt">Email</td>
+                    <td valign="top">:</td>
+                    <td>Revanurss1029@gmail.com</td>
+                </tr>
+               </tbody></table>
+            </td>
+        </tr>
+        </tbody></table>
+      </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/Aisyah.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Siti Aisyah</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715220011</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>aisyahst1103@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/yasmin.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Yasmin Nur Afifah</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715220002</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>yasminnurafifah27@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/Halimatus.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Halimatus Sya'diyah</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120003</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>halimatussyadiyah78@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/mia.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Mia Wulandari</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120010</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>miawulandari22@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/geby.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Geby Febriani</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120012</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>gebyfebri234@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/Asrini.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Asrini</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120001</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>asriniaas28@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/Elsya.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Elsya Melinda Septiani</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120006</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>elsyaseptiani095@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/Dahliya.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Dahliya</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715120008</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>dahliya2502@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/fitri.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Nurfitriana</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715320005</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>fitriana060120@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="assets/img/reza.png" class="img-thumbnail" alt="" width="150" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">Rahmat Reza Haryandi</td>
+            </tr>
+          <tr>
+              <td class="textt">NIM</td>
+                <td>:</td>
+                <td>1910715210001</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Email</td>
+                <td valign="top">:</td>
+                <td>rezaharyandi111@gmail.com</td>
+            </tr>
+           </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</section>
+<footer>
+  <div class="main-footer-menu main-biru py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 mb-3">
+          <div class="mb-3">
+            <a href=""><img src="assets/img/header.png"class=w-100></a>
+          </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center">Copyright &copy; 2021 KELOMPOK 3. Hak Cipta Dilindungi Undang-Undang. </div>
+</footer>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/main.js"></script>
+  </body>
+  </html>
